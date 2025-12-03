@@ -17,3 +17,4 @@ function findOdd(A) {
 }
 
 console.log(findOdd([0, 1, 2, 3, 0, 1, 3]));
+console.log(findOdd([1, 0, 0]));
