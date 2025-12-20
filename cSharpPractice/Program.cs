@@ -7,6 +7,7 @@ ReturnNegative.Run();
 Console.WriteLine(BooleanToString.Run(false));
 Console.WriteLine(BooleanToString.Run(true));
 Console.WriteLine(DNAtoRNA.Run("TTTT"));
+Console.WriteLine(AbbrevName.Run("Daniel Ruiz"));
 // Console.WriteLine("Hello World!");
 // Console.Write("------------------------------");
 // HelloWorld.Run();

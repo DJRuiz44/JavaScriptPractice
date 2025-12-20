@@ -33,4 +33,13 @@ namespace CodeWars
             return rna;
         }
     }
+    public static class AbbrevName
+    {
+        public static string Run(string name){
+            string[] nameArray = name.Split();
+            char firstLetter = nameArray[0][0];
+            char secondLetter = nameArray[1][0];
+            return char.ToUpper(firstLetter) + "." + char.ToUpper(secondLetter);
+        }
+    }
 }
