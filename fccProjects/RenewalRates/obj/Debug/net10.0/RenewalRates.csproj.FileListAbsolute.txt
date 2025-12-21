@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.sourcelink.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\bin\Debug\net10.0\RenewalRates.exe
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\bin\Debug\net10.0\RenewalRates.deps.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\bin\Debug\net10.0\RenewalRates.runtimeconfig.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\bin\Debug\net10.0\RenewalRates.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\bin\Debug\net10.0\RenewalRates.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\refint\RenewalRates.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\RenewalRates.genruntimeconfig.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\RenewalRates\obj\Debug\net10.0\ref\RenewalRates.dll
