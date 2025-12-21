@@ -1,0 +1,15 @@
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\bin\Debug\net10.0\Paperwork.exe
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\bin\Debug\net10.0\Paperwork.deps.json
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\bin\Debug\net10.0\Paperwork.runtimeconfig.json
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\bin\Debug\net10.0\Paperwork.dll
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\bin\Debug\net10.0\Paperwork.pdb
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.AssemblyInfoInputs.cache
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.AssemblyInfo.cs
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.csproj.CoreCompileInputs.cache
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.sourcelink.json
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.dll
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\refint\Paperwork.dll
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.pdb
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\Paperwork.genruntimeconfig.cache
+C:\Users\djrui\Desktop\theLab\hyperBolicTimeChamber\codeWarsKata\fundamentals\Paperwork\obj\Debug\net10.0\ref\Paperwork.dll
