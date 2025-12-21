@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\bin\Debug\net10.0\Larger.exe
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\bin\Debug\net10.0\Larger.deps.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\bin\Debug\net10.0\Larger.runtimeconfig.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\bin\Debug\net10.0\Larger.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\bin\Debug\net10.0\Larger.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.sourcelink.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\refint\Larger.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\Larger.genruntimeconfig.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Larger\obj\Debug\net10.0\ref\Larger.dll
