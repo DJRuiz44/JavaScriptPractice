@@ -1,6 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 bool hasDuplicate(int[] num)
 {
+    //sort first
+    Array.Sort(num);
+    for(int i = 1; i < num.Length; i++)
+    {
+       if(num[i] == num[i-1])
+        {
+            return true;
+        } 
+    }
+    return false;
+}
+    /* Given constraint on element size < array.length
     int max = num[0];
   for(int i = 0; i < num.Length; i++)
     {
@@ -25,6 +37,7 @@ bool hasDuplicate(int[] num)
     Console.WriteLine(string.Join(", ", occurs));
     return false; 
 }
+
 /*Brute Force O^2 solution
 {
     for(int i = 0; i < num.Length; i++)
@@ -42,7 +55,5 @@ bool hasDuplicate(int[] num)
     return false;
 }
 */
-
-
-int[] testNums = [1, 2, 4, 3];
+int[] testNums = [1, 2, 4, 1];
 Console.WriteLine(hasDuplicate(testNums));
