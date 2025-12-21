@@ -42,4 +42,12 @@ namespace CodeWars
             return char.ToUpper(firstLetter) + "." + char.ToUpper(secondLetter);
         }
     }
+    public static class CenturyFromYear
+    {
+        public static int Run(int year)
+        {
+        int century = (int)Math.Ceiling((decimal) year / (decimal)100);
+        return century;   
+        }
+    }
 }

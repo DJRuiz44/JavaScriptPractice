@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.sourcelink.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\bin\Debug\net10.0\forEach.exe
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\bin\Debug\net10.0\forEach.deps.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\bin\Debug\net10.0\forEach.runtimeconfig.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\bin\Debug\net10.0\forEach.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\bin\Debug\net10.0\forEach.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\refint\forEach.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\forEach.genruntimeconfig.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\forEach\obj\Debug\net10.0\ref\forEach.dll
