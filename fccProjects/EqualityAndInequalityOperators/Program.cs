@@ -33,3 +33,19 @@ while (headsCounter < 5 && tailsCounter < 5)
 Console.WriteLine($"Heads:\t\t{headsCounter}");
 Console.WriteLine($"Tails:\t\t{tailsCounter}");
 Console.WriteLine("Thanks for playing!");
+
+string permission = "|Manager";
+int level = 55;
+if(permission.Contains("Admin") && level > 55)
+{
+    Console.WriteLine("Welcome, Super Admin user");
+} else if(permission.Contains("Admin") && level <= 55)
+{
+    Console.WriteLine("Welcome, Admin user");
+} else if(permission.Contains("Manager") && level >= 20)
+{
+    Console.WriteLine("Contact an Admin for access");
+} else
+{
+    Console.WriteLine("You do not have sufficient privileges");
+}
