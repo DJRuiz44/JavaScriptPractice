@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "uJaysNHML9w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Matthew\\Desktop\\theLab\\hyperbolicTimeChamber\\cSharpPractice\\cSharpPractice.csproj",
+=======
+  "dgSpecHash": "w+G9WqUhp+c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djrui\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpPractice.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

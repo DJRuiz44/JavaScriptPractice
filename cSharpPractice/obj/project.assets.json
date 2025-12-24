@@ -8,30 +8,32 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matthew\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\djrui\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\Matthew\\Desktop\\theLab\\hyperbolicTimeChamber\\cSharpPractice\\cSharpPractice.csproj",
       "projectName": "cSharpPractice",
       "projectPath": "C:\\Users\\Matthew\\Desktop\\theLab\\hyperbolicTimeChamber\\cSharpPractice\\cSharpPractice.csproj",
       "packagesPath": "C:\\Users\\Matthew\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Matthew\\Desktop\\theLab\\hyperbolicTimeChamber\\cSharpPractice\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\djrui\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpPractice.csproj",
+      "projectName": "cSharpPractice",
+      "projectPath": "c:\\Users\\djrui\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpPractice.csproj",
+      "packagesPath": "C:\\Users\\djrui\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\djrui\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Matthew\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\djrui\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
