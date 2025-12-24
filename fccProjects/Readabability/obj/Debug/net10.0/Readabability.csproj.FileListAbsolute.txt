@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\bin\Debug\net10.0\Readabability.exe
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\bin\Debug\net10.0\Readabability.deps.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\bin\Debug\net10.0\Readabability.runtimeconfig.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\bin\Debug\net10.0\Readabability.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\bin\Debug\net10.0\Readabability.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.sourcelink.json
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\refint\Readabability.dll
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.pdb
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\Readabability.genruntimeconfig.cache
+C:\Users\Matthew\Desktop\theLab\hyperbolicTimeChamber\fccProjects\Readabability\obj\Debug\net10.0\ref\Readabability.dll
